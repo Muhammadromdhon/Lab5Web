@@ -15,3 +15,10 @@
 <br>Pemakaian method dalam objek
 ![p](gambar/ss5.png)
 ![p](gambar/ss6.png)
+<br>Pemakaian Prompt
+![p](gambar/ss7.png)
+![p](gambar/ss8.png)
+![p](gambar/ss9.png)
+<br>Pembuatan Fungsi dan cara pemanggilannya
+![p](gambar/ss10.png)
+![p](gambar/ss11.png)
